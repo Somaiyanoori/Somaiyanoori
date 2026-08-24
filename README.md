@@ -1,11 +1,11 @@
 <!-- ===================================================== -->
-<!--                    DYNAMIC HEADER                     -->
+<!--                    NEW MODERN HEADER                  -->
 <!-- ===================================================== -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=EC4899,FBBF24&text=SOMAIYA%20NOORI&fontSize=70&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QUALITY%20ARCHITECT&descAlignY=60&descSize=20&animation=twinkling&fontColor=ffffff" alt="Somaiya Noori Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=250&color=18181B&text=SOMAIYA%20NOORI&fontSize=70&fontAlignY=35&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%E2%80%A2%20QUALITY%20ARCHITECT&descAlignY=60&descSize=20&textBg=false&fontColor=EC4899" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=High-Reliability+Web+Applications;Quality-First+Software+Engineering;React+%2B+Next.js+%2B+Node.js;Architecting+Tested+and+Secure+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=FBBF24&center=true&vCenter=true&width=850&lines=Building+Reliable+Web+Applications;Quality+Engineering+%7C+Testing+%2B+Automation;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;Designing+Systems+that+Scale" alt="Typing SVG" />
 
 <br />
 
@@ -160,7 +160,8 @@ I am always interested in discussing **System Design, Quality Automation, and Fu
 
 <br /><br />
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&color=18181B&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=25&fontColor=FBBF24&fontAlignY=50&section=footer" alt="Footer" />
+<!--FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=18181B&text=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20IMPROVE%20%E2%80%A2%20REPEAT&fontSize=20&fontColor=FBBF24&fontAlignY=50" alt="Footer" />
+
 
 </div>
