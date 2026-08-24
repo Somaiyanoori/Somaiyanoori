@@ -104,21 +104,24 @@ Testing is where my work stands out. I don't just write code; I prove it works.
 <!--                  FEATURED PROJECTS                    -->
 <!-- ===================================================== -->
 
-# 🚀 Featured Case Studies
+# 🚀 Featured Systems
 
-### 🏛️ KaarYab Afghanistan
-*   **Role:** Lead Full-Stack Engineer & Architect.
-*   **Complexity:** Handled multi-lingual RTL support (Dari/Pashto) and integrated a complex CV builder.
-*   **Quality:** Implemented Supabase RLS policies to ensure citizen data privacy.
-*   [**View Source**](https://github.com/Somaiyanoori/kaaryab-afghanistan) • [**Live Demo**](https://kaaryab-afghanistan-seven.vercel.app/)
+### 🇦🇫 KaarYab Afghanistan | [Live Demo](https://kaaryab-afghanistan-seven.vercel.app/)
+**Full-Stack Opportunity Ecosystem for Afghan Youth**
+*   **The Problem:** Fragmented career paths in a high-need environment.
+*   **The System:** A multi-tenant platform featuring a real-time **CV Builder (PDF generation)**, advanced filtering, and **Supabase RLS** for data security.
+*   **Quality Metric:** **172 Automated Tests** (84 Unit, 70 Component, 18 E2E) with a **100% Pass Rate**.
+*   **Tech:** Next.js, Clerk, Supabase, Recharts, Framer Motion.
 
-### 🏛️ E-Government Citizen Portal
-*   **Role:** Backend Developer.
-*   **Complexity:** Built a secure document management system using Cloudinary and Prisma.
-*   **Innovation:** Integrated real-time status tracking via Socket.io.
-*   [**View Source**](https://github.com/Somaiyanoori/egov-portal)
+### 🏛️ E-Government Citizen Portal | [Source Code](https://github.com/Somaiyanoori/egov-portal)
+**Full-Stack Digital Governance Platform**
+*   **The System:** A multi-role portal (Citizen, Officer, Admin) digitizing administrative workflows.
+*   **Infrastructure:** Fully **Dockerized** environment with Redis caching and real-time Socket.io notifications.
+*   **Security:** JWT-based Auth, Audit Logging, and a **Comprehensive Production Checklist**.
+*   **Tech:** Node.js, TypeScript, PostgreSQL, Prisma, Redis, Docker, Swagger API Docs.
 
 ---
+
 
 <!-- ===================================================== -->
 <!--                   GITHUB ANALYTICS                    -->
